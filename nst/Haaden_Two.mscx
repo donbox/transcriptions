@@ -224,7 +224,6 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <show>0</show>
       <trackName>G2</trackName>
       <Instrument id="guitar-steel-nst">
         <longName>G2</longName>
@@ -327,7 +326,7 @@
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120
 </b></text>
             </Tempo>
           <RehearsalMark>
@@ -591,7 +590,6 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
-                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -900,7 +898,6 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
-                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -2137,11 +2134,6 @@
                 </linked>
               <Spanner type="Tie">
                 <Tie>
-                  <linked>
-                    <location>
-                      <fractions>5/8</fractions>
-                      </location>
-                    </linked>
                   </Tie>
                 <next>
                   <location>
@@ -2476,11 +2468,6 @@
                 </linked>
               <Spanner type="Tie">
                 <Tie>
-                  <linked>
-                    <location>
-                      <fractions>5/4</fractions>
-                      </location>
-                    </linked>
                   </Tie>
                 <next>
                   <location>
@@ -4031,7 +4018,6 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
-                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -4593,7 +4579,6 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
-                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -6911,11 +6896,6 @@
                 </linked>
               <Spanner type="Tie">
                 <Tie>
-                  <linked>
-                    <location>
-                      <fractions>5/8</fractions>
-                      </location>
-                    </linked>
                   </Tie>
                 <next>
                   <location>
@@ -7547,11 +7527,6 @@
                 </linked>
               <Spanner type="Tie">
                 <Tie>
-                  <linked>
-                    <location>
-                      <fractions>5/4</fractions>
-                      </location>
-                    </linked>
                   </Tie>
                 <next>
                   <location>
