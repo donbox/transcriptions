@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>system</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -113,10 +112,10 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>Guitar (NST) 1</trackName>
+      <trackName>G1</trackName>
       <Instrument id="guitar-steel-nst">
-        <longName>Guitar (NST) 1</longName>
-        <shortName>Guit. 1</shortName>
+        <longName>G1</longName>
+        <shortName>G1</shortName>
         <trackName>Acoustic Guitar (NST)</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>88</maxPitchP>
@@ -225,10 +224,10 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>Acoustic Guitar (NST) 2</trackName>
+      <trackName>G2</trackName>
       <Instrument id="guitar-steel-nst">
-        <longName>Guitar (NST) 2</longName>
-        <shortName>Guit. 2</shortName>
+        <longName>G2</longName>
+        <shortName>G2</shortName>
         <trackName>Acoustic Guitar (NST)</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>88</maxPitchP>
