@@ -109,6 +109,7 @@
           <useNumbers>1</useNumbers>
           </StaffType>
         </Staff>
+      <show>0</show>
       <trackName>G1</trackName>
       <Instrument id="guitar-steel-nst">
         <longName>G1</longName>
@@ -216,6 +217,7 @@
           <useNumbers>1</useNumbers>
           </StaffType>
         </Staff>
+      <show>0</show>
       <trackName>G2</trackName>
       <Instrument id="guitar-steel-nst">
         <longName>G2</longName>
@@ -3412,9 +3414,12 @@
               </Note>
             <Note>
               <linkedMain/>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>3</fret>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
               <string>1</string>
               </Note>
             <Note>
@@ -4578,9 +4583,9 @@
             <Note>
               <linked>
                 </linked>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <fret>3</fret>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <fret>4</fret>
               <string>1</string>
               </Note>
             <Note>
