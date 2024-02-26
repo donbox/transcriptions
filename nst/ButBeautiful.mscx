@@ -109,7 +109,6 @@
           <useNumbers>1</useNumbers>
           </StaffType>
         </Staff>
-      <show>0</show>
       <trackName>G1</trackName>
       <Instrument id="guitar-steel-nst">
         <longName>G1</longName>
@@ -325,6 +324,7 @@
           <useNumbers>1</useNumbers>
           </StaffType>
         </Staff>
+      <show>0</show>
       <trackName>G3</trackName>
       <Instrument id="guitar-steel-nst">
         <longName>G3</longName>
