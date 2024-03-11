@@ -115,7 +115,6 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <show>0</show>
       <trackName>G1</trackName>
       <Instrument id="guitar-steel">
         <longName>G1</longName>
@@ -3505,8 +3504,13 @@
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-4.5181"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <endings>1</endings>
