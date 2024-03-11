@@ -4169,6 +4169,10 @@ The first two note phrase begins in the previous section, the second (beginning 
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>dotted</subtype>
+            <linkedMain/>
+            </BarLine>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -4650,6 +4654,10 @@ The first two note phrase begins in the previous section, the second (beginning 
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>dotted</subtype>
+            <linkedMain/>
+            </BarLine>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -5571,6 +5579,11 @@ The first two note phrase begins in the previous section, the second (beginning 
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>dotted</subtype>
+            <linked>
+              </linked>
+            </BarLine>
           <Chord>
             <linked>
               </linked>
@@ -6127,6 +6140,11 @@ The first two note phrase begins in the previous section, the second (beginning 
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>dotted</subtype>
+            <linked>
+              </linked>
+            </BarLine>
           <Chord>
             <linked>
               </linked>
