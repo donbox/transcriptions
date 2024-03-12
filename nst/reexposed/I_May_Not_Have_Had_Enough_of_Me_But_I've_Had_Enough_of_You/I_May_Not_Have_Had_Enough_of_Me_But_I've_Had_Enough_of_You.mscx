@@ -922,6 +922,13 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -1553,16 +1560,11 @@
           <location>
             <fractions>-1/4</fractions>
             </location>
-          <Chord>
-            <BeamMode>no</BeamMode>
+          <Rest>
+            <linked>
+              </linked>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <fret>4</fret>
-              <string>4</string>
-              </Note>
-            </Chord>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
