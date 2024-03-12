@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>system</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -231,10 +230,10 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>G2</trackName>
+      <trackName>High</trackName>
       <Instrument id="guitar-steel-nst">
-        <longName>G2</longName>
-        <shortName>G2</shortName>
+        <longName>High</longName>
+        <shortName>High</shortName>
         <trackName>Acoustic Guitar (NST)</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>88</maxPitchP>
@@ -349,11 +348,10 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <show>0</show>
-      <trackName>G3</trackName>
+      <trackName>Mid</trackName>
       <Instrument id="guitar-steel-nst">
-        <longName>G3</longName>
-        <shortName>G3</shortName>
+        <longName>Mid</longName>
+        <shortName>Mid</shortName>
         <trackName>Acoustic Guitar (NST)</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>88</maxPitchP>
@@ -417,19 +415,19 @@
           <program value="25"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
-          <midiChannel>13</midiChannel>
+          <midiChannel>10</midiChannel>
           </Channel>
         <Channel name="mute">
           <program value="28"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
-          <midiChannel>14</midiChannel>
+          <midiChannel>11</midiChannel>
           </Channel>
         <Channel name="jazz">
           <program value="26"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
-          <midiChannel>15</midiChannel>
+          <midiChannel>12</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -468,29 +466,26 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <show>0</show>
-      <trackName>G4</trackName>
+      <trackName>Bass</trackName>
       <Instrument id="guitar-steel-nst">
-        <longName>G4</longName>
-        <shortName>G4</shortName>
+        <longName>Bass</longName>
+        <shortName>Bass</shortName>
         <trackName>Acoustic Guitar (NST)</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>88</maxPitchP>
         <minPitchA>36</minPitchA>
         <maxPitchA>88</maxPitchA>
-        <transposeDiatonic>7</transposeDiatonic>
-        <transposeChromatic>12</transposeChromatic>
         <instrumentId>pluck.guitar.acoustic</instrumentId>
         <clef>G8vb</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <StringData>
           <frets>21</frets>
-          <string>24</string>
-          <string>31</string>
-          <string>38</string>
-          <string>45</string>
-          <string>52</string>
-          <string>55</string>
+          <string>36</string>
+          <string>43</string>
+          <string>50</string>
+          <string>57</string>
+          <string>64</string>
+          <string>67</string>
           </StringData>
         <Articulation>
           <velocity>100</velocity>
