@@ -426,6 +426,10 @@
         </VBox>
       <Measure>
         <voice>
+          <KeySig>
+            <linkedMain/>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -800,6 +804,9 @@
               </Note>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -836,6 +843,9 @@
               </Note>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
@@ -1148,6 +1158,11 @@
     <Staff id="2">
       <Measure>
         <voice>
+          <KeySig>
+            <linked>
+              </linked>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -1923,6 +1938,10 @@
     <Staff id="3">
       <Measure>
         <voice>
+          <KeySig>
+            <linkedMain/>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -1958,12 +1977,9 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
-              <fret>8</fret>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>7</fret>
               <string>3</string>
               </Note>
             </Chord>
@@ -1988,7 +2004,7 @@
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -2014,10 +2030,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>51</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>8</fret>
               <string>4</string>
               </Note>
@@ -2027,9 +2043,6 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>7</fret>
@@ -2042,10 +2055,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>6</fret>
               <string>2</string>
               </Note>
@@ -2059,9 +2072,6 @@
               </Articulation>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -2087,9 +2097,6 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <fret>5</fret>
@@ -2131,11 +2138,8 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -2161,7 +2165,7 @@
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -2198,10 +2202,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>11</fret>
               <string>3</string>
               </Note>
@@ -2227,10 +2231,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>13</fret>
               <string>4</string>
               </Note>
@@ -2240,6 +2244,9 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <fret>12</fret>
@@ -2252,10 +2259,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>68</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>11</fret>
               <string>2</string>
               </Note>
@@ -2291,10 +2298,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -2305,6 +2312,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -2355,11 +2365,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -2370,6 +2377,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -2395,10 +2405,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -2409,6 +2419,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -2442,10 +2455,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -2456,6 +2469,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -2506,11 +2522,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -2521,6 +2534,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -2546,10 +2562,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -2560,6 +2576,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -3040,10 +3059,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -3054,6 +3073,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -3104,11 +3126,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -3119,6 +3138,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -3144,10 +3166,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -3158,6 +3180,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -3191,10 +3216,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -3205,6 +3230,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -3255,11 +3283,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -3270,6 +3295,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -3295,10 +3323,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -3309,6 +3337,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -3372,9 +3403,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -3543,9 +3571,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -3714,9 +3739,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -3885,9 +3907,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -4147,6 +4166,9 @@
               </Note>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <fret>9</fret>
@@ -4483,6 +4505,9 @@
               </Note>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <fret>9</fret>
@@ -4714,11 +4739,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -4744,7 +4766,7 @@
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -4774,10 +4796,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>51</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>8</fret>
               <string>4</string>
               </Note>
@@ -4816,9 +4838,6 @@
               </Articulation>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -4885,11 +4904,8 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -4915,7 +4931,7 @@
             <Note>
               <linkedMain/>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -4954,9 +4970,6 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
               <fret>7</fret>
@@ -4998,10 +5011,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>11</fret>
               <string>3</string>
               </Note>
@@ -5013,15 +5026,8 @@
               <linkedMain/>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <fret>3</fret>
-              <string>1</string>
-              </Note>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <fret>4</fret>
-              <string>0</string>
+              <fret>10</fret>
+              <string>2</string>
               </Note>
             </Chord>
           </voice>
@@ -5165,10 +5171,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>6</fret>
               <string>2</string>
               </Note>
@@ -5181,9 +5187,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -5209,10 +5212,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -5354,9 +5357,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -5381,6 +5381,9 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <fret>2</fret>
@@ -5536,10 +5539,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -5549,6 +5552,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -5561,10 +5567,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>8</fret>
               <string>5</string>
               </Note>
@@ -5574,6 +5580,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               <fret>9</fret>
@@ -5600,11 +5609,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -5614,8 +5620,11 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>47</pitch>
-              <tpc>19</tpc>
+              <tpc>7</tpc>
               <fret>4</fret>
               <string>4</string>
               </Note>
@@ -5625,6 +5634,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               <fret>5</fret>
@@ -5637,10 +5649,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -5650,6 +5662,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -5688,10 +5703,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -5701,6 +5716,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -5713,10 +5731,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>8</fret>
               <string>5</string>
               </Note>
@@ -5726,6 +5744,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>45</pitch>
               <tpc>17</tpc>
               <fret>9</fret>
@@ -5752,11 +5773,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -5766,6 +5784,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -5789,10 +5810,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -5802,6 +5823,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -5829,9 +5853,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -6052,9 +6073,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -6275,9 +6293,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -6498,9 +6513,6 @@
               </Note>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -6931,6 +6943,11 @@
     <Staff id="4">
       <Measure>
         <voice>
+          <KeySig>
+            <linked>
+              </linked>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -6973,12 +6990,9 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
-              <fret>8</fret>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <fret>7</fret>
               <string>3</string>
               </Note>
             </Chord>
@@ -7008,7 +7022,7 @@
               <linked>
                 </linked>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -7038,11 +7052,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>51</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>8</fret>
               <string>4</string>
               </Note>
@@ -7070,11 +7081,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>6</fret>
               <string>2</string>
               </Note>
@@ -7174,11 +7182,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -7209,7 +7214,7 @@
               <linked>
                 </linked>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -7252,11 +7257,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>11</fret>
               <string>3</string>
               </Note>
@@ -7286,11 +7288,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>13</fret>
               <string>4</string>
               </Note>
@@ -7315,11 +7314,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>68</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>11</fret>
               <string>2</string>
               </Note>
@@ -7359,11 +7355,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -7433,11 +7426,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -7478,11 +7468,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -7532,11 +7519,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -7606,11 +7590,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -7651,11 +7632,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -8219,11 +8197,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -8293,11 +8268,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -8338,11 +8310,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -8392,11 +8361,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -8466,11 +8432,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -8511,11 +8474,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -10165,11 +10125,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -10200,7 +10157,7 @@
               <linked>
                 </linked>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -10234,11 +10191,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>51</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>8</fret>
               <string>4</string>
               </Note>
@@ -10364,11 +10318,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -10399,7 +10350,7 @@
               <linked>
                 </linked>
               <pitch>58</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -10495,11 +10446,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>11</fret>
               <string>3</string>
               </Note>
@@ -10513,16 +10461,8 @@
                 </linked>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <fret>3</fret>
-              <string>1</string>
-              </Note>
-            <Note>
-              <linked>
-                </linked>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <fret>4</fret>
-              <string>0</string>
+              <fret>10</fret>
+              <string>2</string>
               </Note>
             </Chord>
           </voice>
@@ -10688,7 +10628,7 @@
               <linked>
                 </linked>
               <pitch>63</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               <fret>6</fret>
               <string>2</string>
               </Note>
@@ -10731,7 +10671,7 @@
               <linked>
                 </linked>
               <pitch>61</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -11079,7 +11019,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -11108,7 +11048,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>8</fret>
               <string>5</string>
               </Note>
@@ -11149,7 +11089,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -11162,7 +11102,7 @@
               <linked>
                 </linked>
               <pitch>47</pitch>
-              <tpc>19</tpc>
+              <tpc>7</tpc>
               <fret>4</fret>
               <string>4</string>
               </Note>
@@ -11191,7 +11131,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -11245,7 +11185,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>42</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -11274,7 +11214,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>8</fret>
               <string>5</string>
               </Note>
@@ -11315,7 +11255,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -11357,7 +11297,7 @@
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -12682,6 +12622,10 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <KeySig>
+            <linkedMain/>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -12731,10 +12675,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -12745,10 +12689,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -12762,8 +12709,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -12777,8 +12724,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -12795,11 +12742,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -12810,6 +12754,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -12835,10 +12782,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -12849,10 +12796,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -12882,10 +12832,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -12896,10 +12846,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -12913,8 +12866,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -12928,8 +12881,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -12946,11 +12899,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -12961,6 +12911,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -12986,10 +12939,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -13000,10 +12953,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -13033,10 +12989,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -13047,10 +13003,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -13064,8 +13023,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -13079,8 +13038,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -13097,11 +13056,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -13112,6 +13068,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -13137,10 +13096,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -13151,10 +13110,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -13184,10 +13146,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -13198,10 +13160,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -13215,8 +13180,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -13230,8 +13195,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <BarLine>
@@ -13251,11 +13216,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -13266,6 +13228,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -13291,10 +13256,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -13305,10 +13270,13 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -13338,10 +13306,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -13352,6 +13320,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -13402,11 +13373,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -13417,6 +13385,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -13442,10 +13413,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -13456,6 +13427,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -13489,10 +13463,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -13503,6 +13477,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
               <fret>7</fret>
@@ -13553,11 +13530,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -13568,6 +13542,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -13593,10 +13570,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -13607,6 +13584,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -13656,9 +13636,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -13771,9 +13748,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -13886,9 +13860,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -14001,9 +13972,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -14564,11 +14532,8 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -14594,7 +14559,7 @@
             <Note>
               <linkedMain/>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -14624,12 +14589,12 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>39</pitch>
-              <tpc>23</tpc>
-              <fret>8</fret>
-              <string>4</string>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Chord>
@@ -14666,9 +14631,6 @@
               </Articulation>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -15064,9 +15026,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
@@ -15116,9 +15075,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
@@ -15770,6 +15726,9 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   <linkedMain/>
@@ -16019,6 +15978,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -16171,6 +16133,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -16253,9 +16218,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -16368,9 +16330,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -16483,9 +16442,6 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               <fret>3</fret>
@@ -16517,6 +16473,11 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <KeySig>
+            <linked>
+              </linked>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -16572,11 +16533,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -16591,8 +16549,8 @@
                 </linked>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16608,8 +16566,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16625,8 +16583,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -16646,11 +16604,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -16691,11 +16646,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -16710,8 +16662,8 @@
                 </linked>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -16745,11 +16697,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -16764,8 +16713,8 @@
                 </linked>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16781,8 +16730,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16798,8 +16747,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -16819,11 +16768,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -16864,11 +16810,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -16883,8 +16826,8 @@
                 </linked>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -16919,10 +16862,10 @@
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -16935,10 +16878,13 @@
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16954,8 +16900,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -16971,8 +16917,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           </voice>
@@ -16992,11 +16938,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -17009,6 +16952,9 @@
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>35</pitch>
               <tpc>19</tpc>
               <fret>4</fret>
@@ -17038,10 +16984,10 @@
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -17054,10 +17000,13 @@
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -17092,10 +17041,10 @@
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -17108,10 +17057,13 @@
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>31</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -17127,8 +17079,8 @@
                 </Accidental>
               <pitch>32</pitch>
               <tpc>10</tpc>
-              <fret>1</fret>
-              <string>4</string>
+              <fret>8</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Chord>
@@ -17144,8 +17096,8 @@
                 </Accidental>
               <pitch>33</pitch>
               <tpc>17</tpc>
-              <fret>2</fret>
-              <string>4</string>
+              <fret>9</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <BarLine>
@@ -17169,11 +17121,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -17214,11 +17163,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -17233,8 +17179,8 @@
                 </linked>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <fret>0</fret>
-              <string>3</string>
+              <fret>7</fret>
+              <string>4</string>
               </Note>
             </Chord>
           </voice>
@@ -17268,11 +17214,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -17342,11 +17285,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -17387,11 +17327,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -17441,11 +17378,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>30</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <fret>6</fret>
               <string>5</string>
               </Note>
@@ -17515,11 +17449,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>34</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>3</fret>
               <string>4</string>
               </Note>
@@ -17560,11 +17491,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -18702,11 +18630,8 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -18737,7 +18662,7 @@
               <linked>
                 </linked>
               <pitch>46</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               <fret>8</fret>
               <string>3</string>
               </Note>
@@ -18771,13 +18696,10 @@
             <Note>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>39</pitch>
-              <tpc>23</tpc>
-              <fret>8</fret>
-              <string>4</string>
+              <tpc>11</tpc>
+              <fret>1</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Chord>
