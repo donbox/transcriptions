@@ -994,6 +994,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
+            <size>9</size>
             <text>not played 
 on first repeat</text>
             </StaffText>
