@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -452,6 +451,12 @@
           <RehearsalMark>
             <text>A</text>
             </RehearsalMark>
+          <StaffText>
+            <family>Arial</family>
+            <size>8</size>
+            <text>Very legato and 
+behind the beat</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -633,6 +638,10 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <linkedMain/>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -1481,11 +1490,6 @@
             <sigN>12</sigN>
             <sigD>8</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Arial</family>
-            <size>8</size>
-            <text>Very legato and behind the beat</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
@@ -2038,6 +2042,9 @@ Gradual unbend</text>
             <sigN>7</sigN>
             <sigD>8</sigD>
             </TimeSig>
+          <RehearsalMark>
+            <text>E</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -2075,9 +2082,6 @@ Gradual unbend</text>
       <Measure>
         <startRepeat/>
         <voice>
-          <RehearsalMark>
-            <text>E</text>
-            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <durationType>32nd</durationType>
@@ -3022,6 +3026,11 @@ Gradual unbend</text>
               </linked>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -6083,6 +6092,10 @@ Gradual unbend</text>
               <string>5</string>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <linkedMain/>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -6126,6 +6139,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6140,6 +6154,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6151,6 +6166,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6204,6 +6220,7 @@ Gradual unbend</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6215,6 +6232,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6226,6 +6244,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6237,6 +6256,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6251,6 +6271,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6262,6 +6283,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -6273,6 +6295,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7587,6 +7610,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7601,6 +7625,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7612,6 +7637,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7704,6 +7730,7 @@ Gradual unbend</text>
         <voice>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7715,6 +7742,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7726,6 +7754,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7737,6 +7766,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7751,6 +7781,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7762,6 +7793,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -7773,6 +7805,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9679,6 +9712,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9693,6 +9727,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9704,6 +9739,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9790,6 +9826,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9804,6 +9841,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -9815,6 +9853,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -10549,6 +10588,11 @@ Gradual unbend</text>
               <string>5</string>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -10599,6 +10643,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10612,6 +10657,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10625,6 +10671,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10685,6 +10732,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10698,6 +10746,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10711,6 +10760,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10724,6 +10774,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10737,6 +10788,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10750,6 +10802,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -10763,6 +10816,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12261,10 +12315,14 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>7</tpc>
               <fret>4</fret>
@@ -12274,6 +12332,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12287,6 +12346,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12391,6 +12451,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12404,6 +12465,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12417,6 +12479,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12430,10 +12493,14 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <fret>9</fret>
@@ -12443,6 +12510,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12456,6 +12524,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -12469,6 +12538,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -14652,10 +14722,14 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>7</tpc>
               <fret>4</fret>
@@ -14665,6 +14739,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -14678,6 +14753,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -14777,10 +14853,14 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
                 </linked>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>7</tpc>
               <fret>4</fret>
@@ -14790,6 +14870,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -14803,6 +14884,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -15184,6 +15266,10 @@ Gradual unbend</text>
               <string>4</string>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <linkedMain/>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -15227,6 +15313,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15241,6 +15328,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15252,6 +15340,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15341,6 +15430,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15352,6 +15442,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15363,6 +15454,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15378,10 +15470,10 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -15461,6 +15553,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15582,16 +15675,17 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -15640,6 +15734,9 @@ Gradual unbend</text>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>44</pitch>
               <tpc>22</tpc>
               <fret>6</fret>
@@ -16098,6 +16195,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16112,6 +16210,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16123,6 +16222,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16251,6 +16351,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16262,6 +16363,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16273,6 +16375,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16288,10 +16391,10 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -16355,10 +16458,10 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -16369,6 +16472,9 @@ Gradual unbend</text>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -16539,10 +16645,10 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -16553,6 +16659,9 @@ Gradual unbend</text>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>38</pitch>
               <tpc>16</tpc>
               <fret>7</fret>
@@ -16603,6 +16712,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16724,16 +16834,17 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16783,7 +16894,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -16806,7 +16917,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -16862,6 +16973,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -16983,10 +17095,10 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -17043,7 +17155,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -17066,7 +17178,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -17115,16 +17227,17 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17174,7 +17287,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -17197,7 +17310,7 @@ Gradual unbend</text>
             <Note>
               <linkedMain/>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -17256,6 +17369,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17270,6 +17384,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17281,6 +17396,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17367,6 +17483,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17381,6 +17498,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17392,6 +17510,7 @@ Gradual unbend</text>
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -17819,6 +17938,11 @@ Gradual unbend</text>
               <string>4</string>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -17869,6 +17993,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -17885,6 +18010,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -17898,6 +18024,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18000,6 +18127,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18013,6 +18141,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18026,6 +18155,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18047,7 +18177,7 @@ Gradual unbend</text>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -18138,6 +18268,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18280,7 +18411,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -18288,6 +18419,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18879,6 +19011,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18895,6 +19028,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -18908,6 +19042,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19054,6 +19189,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19067,6 +19203,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19080,6 +19217,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19098,10 +19236,10 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -19176,7 +19314,7 @@ Gradual unbend</text>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -19389,7 +19527,7 @@ Gradual unbend</text>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>37</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>6</fret>
               <string>4</string>
               </Note>
@@ -19459,6 +19597,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19601,7 +19740,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -19609,6 +19748,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19667,7 +19807,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -19694,7 +19834,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>44</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               <fret>6</fret>
               <string>3</string>
               </Note>
@@ -19759,6 +19899,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -19901,7 +20042,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -19968,7 +20109,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -19995,7 +20136,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -20055,7 +20196,7 @@ Gradual unbend</text>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -20063,6 +20204,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20121,7 +20263,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -20148,7 +20290,7 @@ Gradual unbend</text>
               <linked>
                 </linked>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               <fret>4</fret>
               <string>2</string>
               </Note>
@@ -20216,6 +20358,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20232,6 +20375,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20245,6 +20389,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20344,6 +20489,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20360,6 +20506,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
@@ -20373,6 +20520,7 @@ Gradual unbend</text>
           <Chord>
             <linked>
               </linked>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linked>
