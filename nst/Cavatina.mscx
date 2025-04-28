@@ -11,6 +11,7 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <enableVerticalSpread>1</enableVerticalSpread>
+      <createMultiMeasureRests>1</createMultiMeasureRests>
       <Spatium>1.74978</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -12285,8 +12286,8 @@
                 </Accidental>
               <pitch>43</pitch>
               <tpc>27</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Rest>
@@ -12352,8 +12353,8 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>0</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Rest>
@@ -12367,8 +12368,8 @@
               <linkedMain/>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>0</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Rest>
@@ -12677,8 +12678,8 @@
               <linkedMain/>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -12692,8 +12693,8 @@
               <linkedMain/>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -12726,8 +12727,8 @@
               <linkedMain/>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -12741,8 +12742,8 @@
               <linkedMain/>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -13272,8 +13273,8 @@
                 </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Rest>
@@ -14098,8 +14099,8 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -14113,8 +14114,8 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -14147,8 +14148,8 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -14162,8 +14163,8 @@
               <linkedMain/>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -15486,8 +15487,8 @@
                 </Accidental>
               <pitch>43</pitch>
               <tpc>27</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Rest>
@@ -15565,8 +15566,8 @@
                 </linked>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>0</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Rest>
@@ -15583,8 +15584,8 @@
                 </linked>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <fret>0</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Rest>
@@ -15950,8 +15951,8 @@
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -15968,8 +15969,8 @@
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -16008,8 +16009,8 @@
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -16026,8 +16027,8 @@
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <fret>2</fret>
-              <string>2</string>
+              <fret>9</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -16651,8 +16652,8 @@
                 </Accidental>
               <pitch>43</pitch>
               <tpc>15</tpc>
-              <fret>0</fret>
-              <string>4</string>
+              <fret>7</fret>
+              <string>5</string>
               </Note>
             </Chord>
           <Rest>
@@ -17600,8 +17601,8 @@
                 </linked>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -17618,8 +17619,8 @@
                 </linked>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -17658,8 +17659,8 @@
                 </linked>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
@@ -17676,8 +17677,8 @@
                 </linked>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <fret>0</fret>
-              <string>2</string>
+              <fret>7</fret>
+              <string>3</string>
               </Note>
             </Chord>
           <Rest>
